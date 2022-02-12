@@ -13,8 +13,8 @@
     <tr>
       <th scope="col">Task</th>
       <th scope="col">Status</th>
-      <th scope="col" class="text-center">#</th>
-      <th scope="col" class="text-center">#</th>
+      <th scope="col" class="text-center">Edit</th>
+      <th scope="col" class="text-center">Delete</th>
     </tr>
   </thead>
   <tbody>
